@@ -7,7 +7,8 @@
 body {
     background-color: #d9dcd6;
 }
-/* took out . in header below */
+/*HEADER*/
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +51,12 @@ p {
     font-size: 16px;
 }
 
+li {
+    display: inline;
+}
+
+/*CLASS*/
+
 .hero {
     height: 800px;
     width: 100%;
@@ -85,20 +92,20 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/*group .benefit-lead,  .benefit-brand, .benefit-cost grouped together because have same attributes*/
+/*grouped .benefit-lead,  .benefit-brand, .benefit-cost  together because have same attributes*/
 
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/*group .benefit-lead h3, .benefit-brand h3, & .benefit-cost h3 because of same attributes*/
+/*grouped .benefit-lead h3, .benefit-brand h3, & .benefit-cost h3 because of same attributes*/
 
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3  {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/*.benefit-lead img, .benefit-brand img, .benefit-cost img*/
+/* grouped .benefit-lead img, .benefit-brand img, .benefit-cost img because of same attributes*/
 
 .benefit-lead img, .benefit-brand img, .benefit-cost img  {
     display: block;
@@ -116,7 +123,7 @@ p {
     color: #ffffff;
 }
 
-/*grouped search engine optimization, online reputation management, and social media marketing images together to clean up CSS with the same attribute*/
+/*grouped search engine optimization, online reputation management, and social media marketing images together to because of same attribute*/
 
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img  {
     max-height: 200px;
@@ -128,6 +135,11 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+.text-right {
+    text-align: right;
+}
+
+/*FOOTER*/
 
 footer {
     padding: 30px;
@@ -135,16 +147,7 @@ footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-/*changed footer to h4*/
 
 footer h4 {
     font-size: 20px;
-}
-
-.text-right {
-    text-align: right;
-}
-
-li {
-    display: inline;
 }
