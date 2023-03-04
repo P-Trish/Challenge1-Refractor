@@ -21,7 +21,7 @@ This website contains accessible alt attributes for images.  The navigation bar 
 
 ## Credits
 
-
+N/A
 
 ## License
 
