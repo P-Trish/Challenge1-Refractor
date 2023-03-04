@@ -24,7 +24,7 @@ This website contains accessible alt attributes for images.  The navigation bar 
 
 ## Credits
 
-N/A
+Original code index.html and style.css were provided through the UCLA Full-Stack Bootcamp Spot curriculum.  
 
 ## License
 
