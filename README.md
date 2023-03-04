@@ -9,6 +9,9 @@ I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines."
 When cleaning up the code web accessibility standards were also considered and implemented to meet requirements.  By linearly organizing the code with HTML semantics it makes the site easier for it to show up in a search engine. Duplicate CSS properties were also consolidated to clean up code. This solves the issue of hard-to-read code by making it syntactically readable and disability accessible.   In this simulation, I was put in a real-life issue that may arise in my future as a web developer.  I was able to practice and apply what I have learned of HTML, Github, and CSS so far.  
 
+Link to live site:
+https://p-trish.github.io/Challenge1-Refractor/
+
 ## Installation
 
 N/A
