@@ -17,6 +17,7 @@ N/A
 
 This website contains accessible alt attributes for images.  The navigation bar in the header links the user to each featured section listed.  
 
+![alt text](./assets/images/Horiseon_Website_Refractor_Challenge.png)
 
 ## Credits
 
